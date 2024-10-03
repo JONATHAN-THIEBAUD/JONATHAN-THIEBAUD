@@ -19,6 +19,7 @@ I am currently a student at **HEIG-VD**, where I learn :
 - Cybersecurity 
 - Software Engineering
 - Networking
+- Data
 
 ### 💡 Projects & Learning
 
