@@ -14,7 +14,7 @@ Welcome to my GitHub profile ! I'm currently studying **cybersecurity** at the *
 
 ### 🎓 Currently Studying at HEIG-VD
 
-I am currently a student at **HEIG-VD** (School of Business and Engineering Vaud), where I learn :
+I am currently a student at **HEIG-VD**, where I learn :
 
 - Cybersecurity 
 - Software Engineering
