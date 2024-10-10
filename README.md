@@ -2,6 +2,8 @@
 
 I'm currently studying **cybersecurity** at the **HEIG-VD**, pursuing my **Bachelor's degree**. I like  technology, programming, and security. I'm passionate about music, astronomy and sport. 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=F7593C&background=FFFFFF00&width=435&lines=Looking+for+a+Diddy+party...)](https://git.io/typing-svg)
+
 ### 🛠️ My Skills
 
 **Programming language :**
