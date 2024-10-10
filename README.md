@@ -12,6 +12,10 @@ I'm currently studying **cybersecurity** at the **HEIG-VD**, pursuing my **Bache
 - PHP
 - SQL
 
+last important thing learned :
+```Java
+System.out.println("Hello World!"); 
+```
 ### 🎓 Currently Studying at HEIG-VD
 
 I am currently a student at **HEIG-VD**, where I learn :
