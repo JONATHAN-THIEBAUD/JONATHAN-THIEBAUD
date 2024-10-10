@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jonathan Thiébaud
+# 👋 Hello, I'm Jonathan 
 
 I'm currently studying **cybersecurity** at the **HEIG-VD**, pursuing my **Bachelor's degree**. I like  technology, programming, and security. I'm passionate about music, astronomy and sport. 
 
