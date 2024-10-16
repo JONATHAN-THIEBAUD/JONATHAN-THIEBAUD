@@ -27,7 +27,7 @@ I am currently a student at **HEIG-VD**, where I learn :
 
 ### 💡 Projects & Learning
 
-Currently i work only on the school labs - No personnal projects for now ... and for later
+Currently i work only on the school labs - No personnal projects for now.
 
 Feel free to explore my repositories and don’t hesitate to reach out if you'd like to collaborate !
 
