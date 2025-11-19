@@ -11,6 +11,7 @@ I'm currently studying **cybersecurity** at the **HEIG-VD**, pursuing my **Bache
 - HTML, CSS
 - PHP
 - SQL
+- Python
 
 last important thing learned :
 ```Java
