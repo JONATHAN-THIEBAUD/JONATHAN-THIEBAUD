@@ -1,38 +1,39 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=FFF&background=FFFFFF00&width=435&lines=Hello+I'm+Jonathan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=FFF&background=FFFFFF00&width=435&lines=About+me)](https://git.io/typing-svg)
 
-I'm currently studying **cybersecurity** at the **HEIG-VD**, pursuing my **BSc**. 
+BSc Computer Science student at **HEIG-VD**, specializing in **Cybersecurity**, graduating February 2027.
 
-### 🛠️ My Skills
+I'm focusing on blue team operations, detection & Response, systems security and i'm driven by automations as well. 
 
-**Programming language :**
+### Current Focus
 
-- C, C++, C#
-- Java
-- HTML, CSS
-- PHP
-- SQL
-- Python
-- Assembly
+- Preparing **CompTIA Security+ (SY0-701)**
+- Building a **Wazuh SIEM lab**, custom detection rules mapped to MITRE ATT&CK
+- Developing a **CVE Tracker CLI**
+- Documenting hands-on labs from coursework: cryptography, memory forensics, web security, low-level security, programmation and many other topics
 
-### 🎓 Currently Studying at HEIG-VD
+### Technical Skills
 
-I am currently a student at **HEIG-VD**, where I learn :
+**Security & Detection**
+- SIEM (Wazuh), log analysis, MITRE ATT&CK mapping
+- Linux administration & hardening
+- Network fundamentals 
 
-- Cybersecurity 
+**Development**
+- Python, Bash, PowerShell, log parsing, detection tooling
+- C, C++, C#, Java
+- SQL, PHP, HTML/CSS
+
+### Background
+
+Studying at HEIG-VD across:
+- Cybersecurity (threat analysis, security architecture, forensics)
 - Software Engineering
 - Networking
 - Data
 
-### 💡 Projects & Learning
-
-Currently i work on CompTia security+ and on different labs. 
-
-Feel free to explore my repositories and don’t hesitate to reach out if you'd like to collaborate !
-
 ### 📫 Get in Touch
 
-- **LinkedIn**: [Jonathan Thiébaud](https://www.linkedin.com/in/jonathan-thiebaud/) 
+- **LinkedIn**: [Jonathan Thiébaud](https://www.linkedin.com/in/jonathan-thiebaud/)
 - **Email**: [jonathan.thiebaud@heig-vd.ch](mailto:jonathan.thiebaud@heig-vd.ch)
 
-Thanks for stopping by ! 
-
+Open to connecting with anyone interested in cybersecurity — feel free to reach out.
