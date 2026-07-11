@@ -9,14 +9,15 @@ I'm focusing on blue team operations, detection & Response, systems security and
 - Preparing **CompTIA Security+ (SY0-701)**
 - Building a **Wazuh SIEM lab**, custom detection rules mapped to MITRE ATT&CK
 - Developing a **CVE Tracker CLI**
-- Documenting hands-on labs from coursework: cryptography, memory forensics, web security, low-level security, programmation and many other topics
+- CTFs
+- Documenting hands-on labs from coursework and personnal projects
 
 ### Technical Skills
 
 **Security & Detection**
 - SIEM (Wazuh), log analysis, MITRE ATT&CK mapping
 - Linux administration & hardening
-- Network fundamentals 
+- Network and OS fundamentals
 
 **Development**
 - Python, Bash, PowerShell, log parsing, detection tooling
