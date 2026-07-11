@@ -1,40 +1,31 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=FFF&background=FFFFFF00&width=435&lines=About+me)](https://git.io/typing-svg)
 
-BSc Computer Science student at **HEIG-VD**, specializing in **Cybersecurity**, graduating February 2027.
+### Hi, I'm Jonathan Thiébaud
 
-I'm focusing on blue team operations, detection & Response, systems security and i'm driven by automations as well. 
+BSc Computer Science student at HEIG-VD. Specializing in Cybersecurity and graduating in February 2027.
 
-### Current Focus
+**Actual focus:** Blue Team operations, GRC, systems and driven by automations as well. 
 
-- Preparing **CompTIA Security+ (SY0-701)**
-- Building a **Wazuh SIEM lab**, custom detection rules mapped to MITRE ATT&CK
-- Developing a **CVE Tracker CLI**
-- CTFs
-- Documenting hands-on labs from coursework and personnal projects
+---
 
-### Technical Skills
+### What I'm working on
 
-**Security & Detection**
-- SIEM (Wazuh), log analysis, MITRE ATT&CK mapping
-- Linux administration & hardening
-- Network and OS fundamentals
+I'm running a Wazuh SIEM lab where I write custom detection rules. I built and maintain a CVE Tracker CLI and others small similar hands-on projects. I'm currently preparing for CompTIA Security+ (SY0-701), and I document coursework and hands-on labs from my degree as I go.
 
-**Development**
-- Python, Bash, PowerShell, log parsing, detection tooling
-- C, C++, C#, Java
-- SQL, PHP, HTML/CSS
+### Pinned repositories
 
-### Background
+The pinned repos below are complete, documented, and represent what I can actually build (not exhaustive), not just coursework I sat through.
 
-Studying at HEIG-VD across:
-- Cybersecurity (threat analysis, security architecture, forensics)
-- Software Engineering
-- Networking
-- Data
+### About this profile
 
-### 📫 Get in Touch
+This GitHub is split into two parts:
+
+- **Public repos** : personal projects, tools I've built, and open-source contributions.
+- **HEIG-VD coursework** kept private. Course material and lab assignments could be reused across cohorts, so I don't publish them to avoid enabling plagiarism or exposing content instructors haven't cleared for public release. Happy to walk through any of it on request, everything is there and documented, just ask.
+
+### Let's connect
 
 - **LinkedIn**: [Jonathan Thiébaud](https://www.linkedin.com/in/jonathan-thiebaud/)
 - **Email**: [jonathan.thiebaud@heig-vd.ch](mailto:jonathan.thiebaud@heig-vd.ch)
 
-Open to connecting with anyone interested in cybersecurity — feel free to reach out.
+Open to connecting with anyone interested in the cybersecurity field, feel free to reach out.
