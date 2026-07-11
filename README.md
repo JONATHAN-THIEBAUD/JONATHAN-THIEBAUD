@@ -26,6 +26,6 @@ This GitHub is split into two parts:
 ### Let's connect
 
 - **LinkedIn**: [Jonathan Thiébaud](https://www.linkedin.com/in/jonathan-thiebaud/)
-- **Email**: [jonathan.thiebaud@heig-vd.ch](mailto:jonathan.thiebaud@heig-vd.ch)
+- **Email**: [jonathan.thiebaud@heig-vd.ch](mailto:jonathan.thiebaud@proton.me)
 
 Open to connecting with anyone interested in the cybersecurity field, feel free to reach out.
