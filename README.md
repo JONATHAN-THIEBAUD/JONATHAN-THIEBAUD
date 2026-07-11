@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=FFF&background=FFFFFF00&width=435&lines=About+me)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4500&pause=1000&color=FFF&background=FFFFFF00&width=435&lines=Hi,+I'm+Jonathan+Thiébaud)](https://git.io/typing-svg)
 
-### Hi, I'm Jonathan Thiébaud
+### 
 
 BSc Computer Science student at HEIG-VD. Specializing in Cybersecurity and graduating in February 2027.
 
