@@ -21,7 +21,7 @@ The pinned repos below are complete, documented, and represent what I can actual
 This GitHub is split into two parts:
 
 - **Public repos** : personal projects, tools I've built, and open-source contributions.
-- **HEIG-VD coursework** kept private. Course material and lab assignments could be reused across cohorts, so I don't publish them to avoid enabling plagiarism or exposing content instructors haven't cleared for public release. Happy to walk through any of it on request, everything is there and documented, just ask.
+- **HEIG-VD coursework** kept private. Course material and lab assignments could be reused across cohorts and can contain malicious code, so I don't publish them to avoid enabling plagiarism or exposing content instructors haven't cleared for public release. Happy to walk through any of it on request, everything is there and documented, just ask.
 
 ### Let's connect
 
